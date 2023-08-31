@@ -1,0 +1,22 @@
+{
+  "name": "basic_node",
+  "version": "1.0.0",
+  "description": "latihan_nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarmin-hub/basic_node.git"
+  },
+  "keywords": [
+    "node_latihan"
+  ],
+  "author": "tarmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarmin-hub/basic_node/issues"
+  },
+  "homepage": "https://github.com/tarmin-hub/basic_node#readme"
+}
